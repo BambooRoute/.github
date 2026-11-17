@@ -7,7 +7,7 @@ A multi-model AI API gateway for developers.
 ## Projects
 
 - **[DSH Provider](https://github.com/BambooRoute/dsh-provider)** — Connect your BambooRoute account to DeepSeek Harness and choose BambooRoute models in the model picker. [Install guide](https://github.com/BambooRoute/dsh-provider#install--%E5%AE%89%E8%A3%85) · [npm](https://www.npmjs.com/package/@bambooroute/dsh-provider)
-- **[Bamboo Desktop](https://github.com/BambooRoute/desktop)** — A desktop client based on DeepSeek Harness. In development; BambooRoute sign-in and model access are not available yet.
+- **[Bamboo Desktop](https://github.com/BambooRoute/desktop)** — A desktop client based on DeepSeek Harness. 
 
 ## 中文
 
